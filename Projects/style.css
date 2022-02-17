@@ -1,0 +1,38 @@
+p { color: blueviolet
+    ;}
+    .myclass {
+        color: brown;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+   body {
+       background-color: rgb(168, 164, 164);
+       
+   }
+
+   h1 {
+font-family: Verdana, Geneva, Tahoma, sans-serif; padding: 40px; border-left-color: aqua;
+text-align: center;
+background-color: azure; min-height: 30px;
+   }
+
+
+
+ .nav {
+     height: 5vh;
+     background-color: coral;
+ }
+
+ body {
+     margin: 0;
+     padding: 0%;
+
+ }
+
+ .hero {
+     height: 80vh;
+     background-color: aqua;
+ }
+
+ img {height: auto;
+
+ }

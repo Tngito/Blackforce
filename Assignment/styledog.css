@@ -1,0 +1,52 @@
+.firstcontent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; justify-content: left;
+}
+
+h1 {text-align: center;}
+p {
+    text-align: justify;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+  a:link, a:visited {
+    background-color: #160301;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(22, 179, 207);
+  }
+ .firstcontent {
+     text-align: justify;
+ }
+ p {
+     text-align: left;
+ }
+
+ h3 { 
+     border: #160301; min-height: 20%;
+     background-color: aquamarine; min-height: 30%;
+ }
